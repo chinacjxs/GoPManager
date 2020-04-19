@@ -27,7 +27,7 @@
 
 新建一个游戏对象，并且添加一个控制脚本`PoolManager`
 
-<img src="http://chinacjxs.ticp.net/typora/20200419002035.png" alt="image-20200418235635276"  />
+![img](http://chinacjxs.ticp.net/typora/20200419002035.png)
 
 在脚本中实例化`GopManager`，注册并创建出对象池中的对象
 
@@ -78,4 +78,3 @@ public class PlayerFire : MonoBehaviour
     }
 }
 ```
-
